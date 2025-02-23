@@ -1,9 +1,10 @@
-### Hi there 👋 I'm ConsT27. Red Team.Hacker.
+### Hi there 👋 I'm ConsT27.
+### Focus On Security Researches.
+
 ## About Me
 #### My website 👉  http://www.const27.com
-## study target:
+
+## My Study Target Recently:
 Windows Security
-
 Cloud Security
-
-Pentest Skills
+Bounty Hunter
